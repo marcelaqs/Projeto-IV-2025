@@ -8,7 +8,7 @@
   5. Inspeção leve e resumos automáticos
 
 - `data/` (não incluído aqui): contém os arquivos brutos e processados, armazenados no Google Drive.  
-  ⚠️ Arquivos grandes (CSV/Parquet) não são enviados para o GitHub.
+   Arquivos grandes (CSV/Parquet) não são enviados para o GitHub.
 
 ## Como usar
 
